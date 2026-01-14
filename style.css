@@ -3,3 +3,15 @@ html {
     width: 100%;
   }
   
+  #red{
+    color: red;
+  }
+  h1{
+    color: green;
+  }
+  .blue{
+    color: blue;
+  }
+  .red{
+    color: red;
+  }
